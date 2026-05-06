@@ -1,5 +1,5 @@
 # Menggunakan image Python yang ringan
-FROM python:3.10-slim
+FROM python:3.11-slim
 
 # Menentukan direktori kerja di dalam container
 WORKDIR /workspace
